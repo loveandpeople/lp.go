@@ -3,9 +3,9 @@ package gocks
 import (
 	"strings"
 
-	. "github.com/iotaledger/iota.go/api"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/api"
+	. "github.com/loveandpeople/lp.go/api/integration/samples"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"gopkg.in/h2non/gock.v1"
 )
 

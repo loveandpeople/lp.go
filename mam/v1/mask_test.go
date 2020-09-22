@@ -1,9 +1,9 @@
 package mam_test
 
 import (
-	"github.com/iotaledger/iota.go/curl"
-	. "github.com/iotaledger/iota.go/mam/v1"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/curl"
+	. "github.com/loveandpeople/lp.go/mam/v1"
+	. "github.com/loveandpeople/lp.go/trinary"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

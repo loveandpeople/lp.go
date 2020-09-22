@@ -3,10 +3,10 @@ package key_examples_test
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl"
-	"github.com/iotaledger/iota.go/signing/key"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/kerl"
+	"github.com/loveandpeople/lp.go/signing/key"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 // i req: entropy, The data from which to derive the private key.

@@ -33,11 +33,11 @@ preserve backward compatibility.
 package key
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl"
-	"github.com/iotaledger/iota.go/kerl/sha3"
-	sponge "github.com/iotaledger/iota.go/signing/utils"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/kerl"
+	"github.com/loveandpeople/lp.go/kerl/sha3"
+	sponge "github.com/loveandpeople/lp.go/signing/utils"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"github.com/pkg/errors"
 )
 

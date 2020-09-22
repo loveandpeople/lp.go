@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"strings"
 
-	. "github.com/iotaledger/iota.go/encoding/b1t6"
-	"github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/encoding/b1t6"
+	"github.com/loveandpeople/lp.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/ginkgo/extensions/table"
 	. "github.com/onsi/gomega"

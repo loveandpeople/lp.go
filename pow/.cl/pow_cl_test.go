@@ -4,9 +4,9 @@
 package cl
 
 import (
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/curl"
+	"github.com/loveandpeople/lp.go/transaction"
+	"github.com/loveandpeople/lp.go/trinary"
 
 	"testing"
 	"time"

@@ -5,8 +5,8 @@ import (
 	. "github.com/onsi/ginkgo/extensions/table"
 	. "github.com/onsi/gomega"
 
-	. "github.com/iotaledger/iota.go/curl"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/curl"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 var _ = Describe("Curl", func() {

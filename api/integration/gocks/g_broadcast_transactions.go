@@ -1,8 +1,8 @@
 package gocks
 
 import (
-	. "github.com/iotaledger/iota.go/api"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
+	. "github.com/loveandpeople/lp.go/api"
+	. "github.com/loveandpeople/lp.go/api/integration/samples"
 	"gopkg.in/h2non/gock.v1"
 )
 

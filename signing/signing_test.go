@@ -1,9 +1,9 @@
 package signing_test
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/signing"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/signing"
+	. "github.com/loveandpeople/lp.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

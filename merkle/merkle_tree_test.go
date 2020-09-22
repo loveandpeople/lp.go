@@ -1,12 +1,12 @@
 package merkle_test
 
 import (
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl"
-	. "github.com/iotaledger/iota.go/merkle"
-	"github.com/iotaledger/iota.go/signing"
-	"github.com/iotaledger/iota.go/signing/key"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/kerl"
+	. "github.com/loveandpeople/lp.go/merkle"
+	"github.com/loveandpeople/lp.go/signing"
+	"github.com/loveandpeople/lp.go/signing/key"
+	"github.com/loveandpeople/lp.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

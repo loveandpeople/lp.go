@@ -1,10 +1,10 @@
 package listener
 
 import (
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/plugins/promoter"
-	"github.com/iotaledger/iota.go/account/plugins/transfer/poller"
-	"github.com/iotaledger/iota.go/bundle"
+	"github.com/loveandpeople/lp.go/account/event"
+	"github.com/loveandpeople/lp.go/account/plugins/promoter"
+	"github.com/loveandpeople/lp.go/account/plugins/transfer/poller"
+	"github.com/loveandpeople/lp.go/bundle"
 	"sync"
 )
 

@@ -2,8 +2,8 @@ package bundle_examples_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/bundle"
+	"github.com/loveandpeople/lp.go/trinary"
 	"strings"
 	"time"
 )

@@ -2,8 +2,8 @@ package mongo
 
 import (
 	"context"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/account/store"
+	"github.com/loveandpeople/lp.go/trinary"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

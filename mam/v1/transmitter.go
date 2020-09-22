@@ -3,13 +3,13 @@ package mam
 import (
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/encoding/ascii"
-	"github.com/iotaledger/iota.go/mam/v1/merkle"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/api"
+	"github.com/loveandpeople/lp.go/bundle"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/curl"
+	"github.com/loveandpeople/lp.go/encoding/ascii"
+	"github.com/loveandpeople/lp.go/mam/v1/merkle"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 // Some error definitions.

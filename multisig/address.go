@@ -1,9 +1,9 @@
 package multisig
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/signing/utils"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/signing/utils"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 // NewMultisigAddress creates a new multisig address object.

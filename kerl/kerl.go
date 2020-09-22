@@ -6,10 +6,10 @@ import (
 	"strings"
 	"unsafe"
 
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl/sha3"
-	. "github.com/iotaledger/iota.go/signing/utils"
-	"github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/kerl/sha3"
+	. "github.com/loveandpeople/lp.go/signing/utils"
+	"github.com/loveandpeople/lp.go/trinary"
 	"github.com/pkg/errors"
 )
 

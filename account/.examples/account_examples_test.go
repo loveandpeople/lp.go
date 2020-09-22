@@ -2,8 +2,8 @@ package account_examples_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/account"
-	"github.com/iotaledger/iota.go/account/deposit"
+	"github.com/loveandpeople/lp.go/account"
+	"github.com/loveandpeople/lp.go/account/deposit"
 	"log"
 	"time"
 )

@@ -1,10 +1,10 @@
 package mam
 
 import (
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/api"
+	"github.com/loveandpeople/lp.go/bundle"
+	"github.com/loveandpeople/lp.go/transaction"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 // API defines an interface with a subset of methods of `api.API`.

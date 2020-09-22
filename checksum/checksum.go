@@ -2,10 +2,10 @@
 package checksum
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/guards"
-	"github.com/iotaledger/iota.go/kerl"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/guards"
+	"github.com/loveandpeople/lp.go/kerl"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 // AddChecksum computes the checksum and returns the given trytes with the appended checksum.

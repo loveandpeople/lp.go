@@ -1,9 +1,9 @@
 package integration_test
 
 import (
-	. "github.com/iotaledger/iota.go/api"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
-	"github.com/iotaledger/iota.go/consts"
+	. "github.com/loveandpeople/lp.go/api"
+	. "github.com/loveandpeople/lp.go/api/integration/samples"
+	"github.com/loveandpeople/lp.go/consts"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"

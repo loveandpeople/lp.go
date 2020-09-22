@@ -4,10 +4,10 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/iotaledger/iota.go/api"
-	mam "github.com/iotaledger/iota.go/mam/v1"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/api"
+	mam "github.com/loveandpeople/lp.go/mam/v1"
+	"github.com/loveandpeople/lp.go/transaction"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 var _ = Describe("Receiver", func() {

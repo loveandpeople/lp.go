@@ -1,9 +1,9 @@
 package mam
 
 import (
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/curl"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 const checksumTrinarySize = consts.AddressChecksumTrytesSize * consts.TritsPerTryte

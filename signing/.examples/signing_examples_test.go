@@ -3,9 +3,9 @@ package signing_examples_test
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/signing"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/signing"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 // i req: seed, The seed from which to derive the subseed from.

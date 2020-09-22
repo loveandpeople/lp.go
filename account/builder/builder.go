@@ -1,15 +1,15 @@
 package builder
 
 import (
-	"github.com/iotaledger/iota.go/account"
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/plugins/promoter"
-	"github.com/iotaledger/iota.go/account/plugins/transfer/poller"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/account/timesrc"
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/account"
+	"github.com/loveandpeople/lp.go/account/event"
+	"github.com/loveandpeople/lp.go/account/plugins/promoter"
+	"github.com/loveandpeople/lp.go/account/plugins/transfer/poller"
+	"github.com/loveandpeople/lp.go/account/store"
+	"github.com/loveandpeople/lp.go/account/timesrc"
+	"github.com/loveandpeople/lp.go/api"
+	"github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"time"
 )
 

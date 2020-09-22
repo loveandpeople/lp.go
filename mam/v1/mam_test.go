@@ -4,12 +4,12 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/encoding/ascii"
-	. "github.com/iotaledger/iota.go/mam/v1"
-	. "github.com/iotaledger/iota.go/mam/v1/merkle"
-	"github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/curl"
+	"github.com/loveandpeople/lp.go/encoding/ascii"
+	. "github.com/loveandpeople/lp.go/mam/v1"
+	. "github.com/loveandpeople/lp.go/mam/v1/merkle"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 const (

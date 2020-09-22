@@ -8,9 +8,9 @@ import (
 	"errors"
 	"sync/atomic"
 
-	. "github.com/iotaledger/iota.go/const"
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/const"
+	"github.com/loveandpeople/lp.go/curl"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 var loopcount byte = 32

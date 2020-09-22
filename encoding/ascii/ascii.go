@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 var asciiRegex = regexp.MustCompile("^[\x00-\x7F]*$")

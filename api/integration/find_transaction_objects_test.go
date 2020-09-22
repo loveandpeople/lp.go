@@ -1,12 +1,12 @@
 package integration_test
 
 import (
-	. "github.com/iotaledger/iota.go/api"
-	_ "github.com/iotaledger/iota.go/api/integration/gocks"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
-	"github.com/iotaledger/iota.go/checksum"
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/api"
+	_ "github.com/loveandpeople/lp.go/api/integration/gocks"
+	. "github.com/loveandpeople/lp.go/api/integration/samples"
+	"github.com/loveandpeople/lp.go/checksum"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"

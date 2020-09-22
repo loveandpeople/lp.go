@@ -2,8 +2,8 @@ package address_example_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/address"
-	"github.com/iotaledger/iota.go/consts"
+	"github.com/loveandpeople/lp.go/address"
+	"github.com/loveandpeople/lp.go/consts"
 	"log"
 	"strings"
 )

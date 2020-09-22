@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/guards"
-	"github.com/iotaledger/iota.go/merkle"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/guards"
+	"github.com/loveandpeople/lp.go/merkle"
 )
 
 func main() {

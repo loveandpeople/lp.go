@@ -1,8 +1,8 @@
 package samples
 
 import (
-	"github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/bundle"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"strings"
 )
 

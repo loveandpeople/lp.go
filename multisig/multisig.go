@@ -6,17 +6,17 @@ import (
 	"strings"
 	"time"
 
-	. "github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/checksum"
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/guards"
-	. "github.com/iotaledger/iota.go/guards/validators"
-	"github.com/iotaledger/iota.go/kerl"
-	"github.com/iotaledger/iota.go/signing"
-	"github.com/iotaledger/iota.go/signing/key"
-	. "github.com/iotaledger/iota.go/signing/utils"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/api"
+	"github.com/loveandpeople/lp.go/bundle"
+	"github.com/loveandpeople/lp.go/checksum"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/guards"
+	. "github.com/loveandpeople/lp.go/guards/validators"
+	"github.com/loveandpeople/lp.go/kerl"
+	"github.com/loveandpeople/lp.go/signing"
+	"github.com/loveandpeople/lp.go/signing/key"
+	. "github.com/loveandpeople/lp.go/signing/utils"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 // the default SpongeFunction creator

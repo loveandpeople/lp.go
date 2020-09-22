@@ -2,7 +2,7 @@
 package sponge
 
 import (
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 type SpongeFunctionCreator func() SpongeFunction

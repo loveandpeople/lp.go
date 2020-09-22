@@ -2,9 +2,9 @@ package time
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/account/deposit"
-	"github.com/iotaledger/iota.go/account/oracle"
-	"github.com/iotaledger/iota.go/account/timesrc"
+	"github.com/loveandpeople/lp.go/account/deposit"
+	"github.com/loveandpeople/lp.go/account/oracle"
+	"github.com/loveandpeople/lp.go/account/timesrc"
 	"time"
 )
 

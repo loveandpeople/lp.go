@@ -2,12 +2,12 @@ package mongo_test
 
 import (
 	"context"
-	"github.com/iotaledger/iota.go/account/deposit"
-	"github.com/iotaledger/iota.go/account/store"
-	mongo_store "github.com/iotaledger/iota.go/account/store/mongo"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/account/deposit"
+	"github.com/loveandpeople/lp.go/account/store"
+	mongo_store "github.com/loveandpeople/lp.go/account/store/mongo"
+	"github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/transaction"
+	"github.com/loveandpeople/lp.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"go.mongodb.org/mongo-driver/mongo"

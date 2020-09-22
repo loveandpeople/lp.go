@@ -2,9 +2,9 @@
 package kerl
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl/bigint"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/kerl/bigint"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"github.com/pkg/errors"
 )
 

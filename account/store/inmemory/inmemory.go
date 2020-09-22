@@ -2,9 +2,9 @@ package inmemory
 
 import (
 	"encoding/json"
-	"github.com/iotaledger/iota.go/account/deposit"
-	. "github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/account/deposit"
+	. "github.com/loveandpeople/lp.go/account/store"
+	"github.com/loveandpeople/lp.go/trinary"
 	"sync"
 	"time"
 )

@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/gob"
 	"github.com/dgraph-io/badger"
-	. "github.com/iotaledger/iota.go/account/store"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/account/store"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"runtime"
 	"time"
 )

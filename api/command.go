@@ -1,7 +1,7 @@
 package api
 
 import (
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 // IRICommand defines a command name for IRI API calls.

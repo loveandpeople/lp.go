@@ -1,9 +1,9 @@
 package validators_test
 
 import (
-	"github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/guards/validators"
+	"github.com/loveandpeople/lp.go/bundle"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/guards/validators"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

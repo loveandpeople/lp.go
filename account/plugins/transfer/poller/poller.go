@@ -1,12 +1,12 @@
 package poller
 
 import (
-	"github.com/iotaledger/iota.go/account"
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/account/util"
-	"github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/account"
+	"github.com/loveandpeople/lp.go/account/event"
+	"github.com/loveandpeople/lp.go/account/store"
+	"github.com/loveandpeople/lp.go/account/util"
+	"github.com/loveandpeople/lp.go/bundle"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"github.com/pkg/errors"
 	"sync"
 	"time"

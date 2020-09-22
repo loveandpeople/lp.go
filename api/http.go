@@ -3,8 +3,8 @@ package api
 import (
 	"bytes"
 	"encoding/json"
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/pow"
+	. "github.com/loveandpeople/lp.go/consts"
+	"github.com/loveandpeople/lp.go/pow"
 	"github.com/pkg/errors"
 	"io/ioutil"
 	"net/http"

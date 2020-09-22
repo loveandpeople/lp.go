@@ -5,11 +5,11 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	mam "github.com/iotaledger/iota.go/mam/v1"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/api"
+	"github.com/loveandpeople/lp.go/bundle"
+	"github.com/loveandpeople/lp.go/consts"
+	mam "github.com/loveandpeople/lp.go/mam/v1"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 var _ = Describe("Transmitter", func() {
