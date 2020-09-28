@@ -2,8 +2,8 @@
 package converter
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/consts"
+	. "github.com/loveandpeople/lp.go/trinary"
 	"regexp"
 	"strings"
 )
